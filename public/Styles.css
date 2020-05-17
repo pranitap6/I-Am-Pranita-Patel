@@ -1,0 +1,139 @@
+.heading {
+  font-size: 63px;
+  color: #6886c5;
+  font-family: "Open Sans", sans-serif;
+  margin-top: 100px;
+}
+.headline {
+  text-align: center;
+  background-color: #beebe9;
+  height: 400px;
+  padding-top: 10px;
+}
+
+.paragraph {
+  color: #6886c5;
+  font-family: "Open Sans", sans-serif;
+}
+
+h2,
+h3,
+h4,
+h5 {
+  color: #6886c5;
+  font-family: "Open Sans", sans-serif;
+}
+.profile {
+  text-align: center;
+  background-color: #fffdf9;
+}
+
+.profile-body {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.profile-heading {
+  margin-bottom: 50px;
+}
+p,
+h6 {
+  color: #888888;
+  font-family: "Open Sans", sans-serif;
+}
+
+img {
+  border-radius: 50%;
+  padding: 5px;
+}
+
+.Image {
+  background-image: url("https://www.transparenttextures.com/patterns/az-subtle.png");
+}
+
+.Education {
+  padding: 50px 70px 20px 70px;
+  text-align: center;
+  background-color: #ffe3ed;
+}
+
+.Education-para {
+  border-bottom: solid 2px #6886c5;
+  padding-bottom: 30px;
+  font-size: 20px;
+}
+
+.Content {
+  text-align: center;
+  padding: 20px 50px 20px 50px;
+}
+
+.Content-block {
+  text-align: justify;
+  width: 550px;
+}
+
+.Career-list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-align: justify;
+}
+
+.star {
+  color: #6886c5;
+}
+
+.Skills-content {
+  font-family: "Open Sans", sans-serif;
+  margin-right: 50px;
+  margin-left: 20px;
+  color: #888888;
+  padding-top: 2px;
+}
+
+.social-links {
+  text-align: justify;
+  padding: 10px;
+  font-size: 20px;
+}
+.social-row {
+  border-bottom: solid 2px #fffdf9;
+  padding-bottom: 50px;
+}
+.Contact {
+  padding: 50px 70px 20px 70px;
+  text-align: center;
+  background-color: #8ac6d1;
+}
+.Contact-para {
+  border-bottom: solid 2px #fffdf9;
+  padding-bottom: 30px;
+  font-size: 20px;
+  color: #fffdf9;
+}
+.no-bullets {
+  list-style: none;
+}
+.no-bullets li {
+  padding: 10px;
+}
+.social-links a {
+  color: #fffdf9;
+  margin: 20px;
+}
+
+.navbar {
+  background-color: #fffdf9;
+  align-item: center;
+  position: fixed;
+}
+.nav a {
+  color: #6886c5;
+  padding-left: 20px;
+}
+
+.nav a:hover {
+  color: #888888;
+  text-decoration: none;
+}
