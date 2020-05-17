@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/I-Am-Pranita-Patel/static/js/main.ac6d9d47.chunk.js",
+    "main.js.map": "/I-Am-Pranita-Patel/static/js/main.ac6d9d47.chunk.js.map",
+    "runtime-main.js": "/I-Am-Pranita-Patel/static/js/runtime-main.207261be.js",
+    "runtime-main.js.map": "/I-Am-Pranita-Patel/static/js/runtime-main.207261be.js.map",
+    "static/js/2.d23efdbc.chunk.js": "/I-Am-Pranita-Patel/static/js/2.d23efdbc.chunk.js",
+    "static/js/2.d23efdbc.chunk.js.map": "/I-Am-Pranita-Patel/static/js/2.d23efdbc.chunk.js.map",
+    "index.html": "/I-Am-Pranita-Patel/index.html",
+    "precache-manifest.f46abdf87de26f5ea787e0d3bdaf94d8.js": "/I-Am-Pranita-Patel/precache-manifest.f46abdf87de26f5ea787e0d3bdaf94d8.js",
+    "service-worker.js": "/I-Am-Pranita-Patel/service-worker.js",
+    "static/js/2.d23efdbc.chunk.js.LICENSE.txt": "/I-Am-Pranita-Patel/static/js/2.d23efdbc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.207261be.js",
+    "static/js/2.d23efdbc.chunk.js",
+    "static/js/main.ac6d9d47.chunk.js"
+  ]
+}
