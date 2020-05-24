@@ -52,7 +52,7 @@ function Career() {
           </li>
           <div style={{ paddingTop: 30 }}>
             <LocationOnIcon style={{ color: "#6886c5" }} />
-            Banglore
+            Bangalore
           </div>
         </ul>
       </div>
